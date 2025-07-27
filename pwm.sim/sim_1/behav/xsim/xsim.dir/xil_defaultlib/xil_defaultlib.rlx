@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/zed/pwm/pwm.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/zed/pwm/pwm.srcs/sim_1/new/pwm_motor_tb.v,1753618074,verilog,,,,pwm_motor_tb,,,,,,,,
+C:/zed/pwm/pwm.srcs/sources_1/new/duty.v,1753617387,verilog,,C:/zed/pwm/pwm.srcs/sources_1/new/pwm_motor.v,,duty,,,,,,,,
+C:/zed/pwm/pwm.srcs/sources_1/new/pwm_motor.v,1753617262,verilog,,C:/zed/pwm/pwm.srcs/sim_1/new/pwm_motor_tb.v,,pwm_motor,,,,,,,,
